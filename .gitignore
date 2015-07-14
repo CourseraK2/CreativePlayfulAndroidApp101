@@ -1,4 +1,4 @@
-##########################Java,Android###############################
+########################## Java,Android ###############################
 # built application files for android
 *.apk
 *.ap_
@@ -32,7 +32,7 @@ proguard/
 # Mac files
 .DS_Store
 
-###########################Python###########################
+########################### Python ###########################
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
